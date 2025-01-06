@@ -45,9 +45,9 @@ Hi there! 👋 I'm Dakota, a .NET software developer based in Omaha, Nebraska. I
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/dakotasouth)
+- **Portfolio**: [yourportfolio.com](https://dakotasouth.tech)
+- **GitHub**: [github.com/yourusername](https://github.com/dakotasouth)
 
 ---
 
